@@ -1,4 +1,4 @@
-# QR Code Restaurant Menu PHP Script
+# Whois Sorgu PHP Script
 
 Selamlar,<br>
 Bence şuan ki haliyle bile kullanılabilir durumdadır. Eğer geliştirmek isteyenler kolayca geliştirebilir.<br>
